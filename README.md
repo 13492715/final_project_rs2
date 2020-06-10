@@ -2,7 +2,7 @@
 
 ## darknet_ros
 
-This folder contains the dataset and it's supporting cfg & data files inside /darknet_ros and 
+This folder contains the dataset and it's supporting cfg & data files inside /darknet_ros
 
 ## duckiebot_lane_following
 
